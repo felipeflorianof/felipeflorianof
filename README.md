@@ -1,6 +1,11 @@
-
-## <div align="center">Hello, World! 🖖</div>
-
+  ## Hello, World! 🖖
+  
+  
+- Estudando JavaScript, HTML e CSS
+- Em busca da minha primeira oportumidade como desenvolvedor
+- Cursando técnico em Desenvolvimento de Sistemas
+ ##
+ 
 <div align="center">
   <a href="https://github.com/felipeflorianof">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeflorianof&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -16,12 +21,19 @@
 </div>
  
  <br>
-  <img align="center" margin-left="40px" src="https://user-images.githubusercontent.com/102492775/167312712-1091b128-6f19-4113-bd43-852bdb569118.png">
+  <img align="right" margin-left="40px" src="https://user-images.githubusercontent.com/102492775/167312712-1091b128-6f19-4113-bd43-852bdb569118.png">
  
 
-  
-  ##
+
  
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
+   <br>
 <div> 
  
   <a href="https://instagram.com/_felipefloriano" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
