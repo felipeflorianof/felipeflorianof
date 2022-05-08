@@ -2,7 +2,7 @@
   
   
 - Estudando JavaScript, HTML e CSS
-- Em busca da minha primeira oportumidade como desenvolvedor
+- Em busca da minha primeira oportunidade como Front-end Developer
 - Cursando técnico em Desenvolvimento de Sistemas
  ##
  
