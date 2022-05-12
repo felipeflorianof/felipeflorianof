@@ -1,7 +1,7 @@
   ## Hello, World! 🖖
   
   
-- Estudando JavaScript, HTML e CSS
+- Estudando JavaScript, PHP, HTML e CSS
 - Em busca da minha primeira oportunidade como Front-end Developer
 - Cursando técnico em Desenvolvimento de Sistemas
  ##
