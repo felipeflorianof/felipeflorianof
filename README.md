@@ -1,7 +1,7 @@
   ## Hello, World! 🖖
   
   
-- Estudando JavaScript, PHP, HTML e CSS
+- Learning JavaScript, PHP, HTML e CSS
 - Em busca da minha primeira oportunidade como Developer
 - Cursando técnico em Desenvolvimento de Sistemas
  ##
