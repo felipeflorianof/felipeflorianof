@@ -1,9 +1,8 @@
-  ## Hello, World! 🖖
+  ## Hello World, I'm Felipe F.! 🖖
   
   
-- Learning JavaScript, PHP, HTML e CSS
-- Em busca da minha primeira oportunidade como Developer
-- Cursando técnico em Desenvolvimento de Sistemas
+- Learning/Estudando JavaScript, PHP, HTML && CSS;
+- Studying Systems Development / Estudando Desenvolvimento de Sistemas. 
  ##
  
 <div align="center">
@@ -14,7 +13,7 @@
 
  
  <br>
-  <img align="right" margin-left="40px" src="https://user-images.githubusercontent.com/102492775/167312712-1091b128-6f19-4113-bd43-852bdb569118.png">
+ 
  
 
 
