@@ -1,4 +1,4 @@
-  ## Hello World! I'm Felipe F. 🖖 / Olá Mundo! Me Eu me chamo Felipe F. 🖖
+  ## Hello World! I'm Felipe F. 🖖 / Olá Mundo! Eu me chamo Felipe F. 🖖
   
   
 - Learning/Estudando JavaScript, PHP, HTML && CSS;
