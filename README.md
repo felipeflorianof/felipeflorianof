@@ -1,8 +1,14 @@
-  ## Hello World! I'm Felipe F. 🖖 
+  ## Hey! I'm Felipe F. 🖖 
   
-- Learning JavaScript, PHP, HTML && CSS;
-- Studying Systems Development. 
+
+- Studying Systems Development. 💻
+- I'm Currently studying: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, 
+ Web Services - Server; 🚀
  ##
+ 
+ <a href = "mailto:felipeflorianof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipeflorianofontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
  
 <div align="center">
   <a href="https://github.com/felipeflorianof">
@@ -10,16 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeflorianof&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div> 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-</div>
-  <br>
+
  
-  <a href = "mailto:felipeflorianof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipeflorianofontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <div align="center" margin="5px"><a href="https://www.linkedin.com/in/felipeflorianofontes" target="_blank">Let's work together -></a></div>
 
