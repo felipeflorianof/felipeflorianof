@@ -2,7 +2,7 @@
   
 
 - Studying Systems Development. 💻
-- I'm Currently studying: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, 
+- Besides I'm studying: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, 
  Web Services - Server; 🚀
  ##
  
