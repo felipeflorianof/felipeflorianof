@@ -18,5 +18,5 @@
 
 
  
-  <div align="center" margin="5px"><a href="https://www.linkedin.com/in/felipeflorianofontes" target="_blank">Let's work together -></a></div>
+  <div align="center" margin="5px"><a href="mailto:felipeflorianof@gmail.com" target="_blank">Let's work together -></a></div>
 
