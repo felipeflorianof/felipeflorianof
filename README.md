@@ -1,4 +1,4 @@
-  ### Hello Friend! I'm Felipe F. <br> A Software Developer
+  ### Hey there! I'm Felipe F. <br> A Software Developer
 
 <img align= "left" alt="Coding" src= "https://c.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif">
 
