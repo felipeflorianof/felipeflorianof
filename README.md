@@ -1,6 +1,6 @@
   ### Hello Friend! I'm Felipe F. <br> A Software Developer
   
-<img align= "left" alt="Coding" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align= "left" alt="Coding" width= "400px" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 
 <div align="center">
