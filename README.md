@@ -3,7 +3,6 @@
 - I have knowledge in: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, Web Services - Server;
 - let's work together, send me a message.
   <img align= "right" alt="Coding" src= "https://c.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif">
-  <br>
 ##
 
 <a href="https://github.com/felipeflorianof">
