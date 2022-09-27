@@ -1,4 +1,4 @@
- Hey there! My name is Felipe Floriano, but call me Felipe <br> I'm a Software Developer
+ Hey there! My name is Felipe Floriano<br> I'm a Software Developer
 - Studying Systems Development. 💻 <br>
 - I have knowledge in: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, Web Services - Server;
 - let's work together, send me a message.
