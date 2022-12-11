@@ -1,23 +1,26 @@
- Hey there! My name is Felipe Floriano<br> I'm a Full-Stack Developer
-- Studying Systems Development. 💻 <br>
-- I have knowledge in: JavaScript, Node.js, PHP, CSS, HTML, Database, Software Development Standards, Web Services - Server;
-- let's work together, send me a message.
-  <img align= "right" alt="Coding" src= "https://c.tenor.com/q4L3wKD-P7YAAAAi/hydra-we-bhack.gif">
-##
+<a href="https://www.linkedin.com/in/felipeflorianofontes/">
+<img align="left" alt="Felipe Floriano Fontes LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+</a>
+<br>
+
+  
+  <div>
+  <h2>⚡️ A Few Quick Facts</h2>
+  <ul>
+    <li>🔭 I’m currently Available for jobs opportunities</a>.</li>
+    <li>🧐 Studying Systems Development.</li>
+    <!--<li>👨‍💻 Most of my projects are available on <a href="https://portfolio.tomondre.com">my portfolio website</a>.</li>-->
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/felipeflorianofontes/">LinkedIn</a>.</li>
+    <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript and Node.js stuff</strong>.</li>
+    <!--<li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li>-->
+    <li>🎉 Fun Fact: I love chess.</li>
+  </ul>
+</div>
 
 <a href="https://github.com/felipeflorianof">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=felipeflorianof&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipeflorianof&show_icons=true&theme=great-gatsby" alt="felipeflorianof" />
 
-##
-
-<div align="center">
-<a href = "mailto:felipeflorianof@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/felipeflorianofontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
 ### Badges
 ![](https://komarev.com/ghpvc/?username=felipeflorianof)
-
-
-  
