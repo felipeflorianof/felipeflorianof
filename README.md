@@ -5,6 +5,7 @@
 
   
   <div>
+  <img width="400px" align="right" src="https://cdn.tomondre.com/this-is-fine.jpg" />
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li>🔭 I’m currently Available for jobs opportunities</a>.</li>
