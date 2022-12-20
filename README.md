@@ -3,7 +3,6 @@
 </a>
 <br>
 
-  
   <div>
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
@@ -16,11 +15,8 @@
     <li>🎉 Fun Fact: I love chess.</li>
   </ul>
 </div>
-
 <a href="https://github.com/felipeflorianof">
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=felipeflorianof&show_icons=true&theme=great-gatsby" alt="felipeflorianof" />
-
-
-
+  
 ### Badges
 ![](https://komarev.com/ghpvc/?username=felipeflorianof)
