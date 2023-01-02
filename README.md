@@ -8,10 +8,9 @@
   <ul>
     <li>🔭 I’m currently Available for jobs opportunities</a>.</li>
     <li>🧐 Studying Systems Development.</li>
-    <!--<li>👨‍💻 Most of my projects are available on <a href="https://portfolio.tomondre.com">my portfolio website</a>.</li>-->
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/felipeflorianofontes/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript and Node.js stuff</strong>.</li>
-    <!--<li>📙 Check out my <a href="https://cdn.tomondre.com/TomasOndrejkaCV.pdf">resume</a>.</li>-->
+    <!--<li>👨‍💻 Most of my projects are available on <a href="https://portfolio.tomondre.com">my portfolio website</a>.</li>-->
     <li>🎉 Fun Fact: I love chess.</li>
   </ul>
 </div>
