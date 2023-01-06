@@ -10,7 +10,6 @@
     <li>🧐 Studying Systems Development.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/felipeflorianofontes/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript and Node.js stuff</strong>.</li>
-    <!--<li>👨‍💻 Most of my projects are available on <a href="https://portfolio.tomondre.com">my portfolio website</a>.</li>-->
     <li>🎉 Fun Fact: I love chess.</li>
   </ul>
 </div>
