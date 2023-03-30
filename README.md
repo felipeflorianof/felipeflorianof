@@ -6,7 +6,7 @@
   <div>
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
-    <li>🔭 I’m currently working At Ustore as a php Developer</a>.</li>
+    <li>🔭 I’m currently working at Ustore as a php Developer</a>.</li>
     <li>🧐 Studying Systems Development.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/felipeflorianofontes/">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript and Node.js stuff</strong>.</li>
