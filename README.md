@@ -9,7 +9,7 @@
     <li>🔭 I’m currently working at Ustore as a software Developer</a>.</li>
     <li>🧐 Graduated in Systems Development.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/felipeflorianofontes/">LinkedIn</a>.</li>
-    <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript and Node.js stuff</strong>.</li>
+    <li>💬 Ping me about <strong>Backend, PHP, Laravel, JavaScript, Java and Springboot stuff</strong>.</li>
     <li>🎉 Fun Fact: I love play chess.</li>
   </ul>
 </div>
