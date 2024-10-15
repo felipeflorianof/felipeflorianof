@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato WhatsApp</title>
+    <style>
+        body {
+            display: flex;
+            flex-direction: column; /* Para empilhar elementos verticalmente */
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: white; /* Cor base branca */
+            overflow: hidden;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            position: relative; /* Para posicionar a imagem de fundo */
+        }
+        .header {
+            color: #ffffff; /* Cor do texto */
+            font-size: 24px; /* Tamanho da fonte */
+            margin-bottom: 20px; /* Espaço entre o texto e o contêiner */
+            text-align: center;
+            position: relative; /* Para garantir que fique acima da imagem */
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 1px 1px 10px black;
+            text-align: center;
+            cursor: pointer;
+            transition: box-shadow 0.3s ease;
+            margin-bottom: 20px; /* Espaço entre os contêineres */
+            position: relative; /* Para garantir que fiquem acima da imagem */
+            z-index: 1; /* Colocar acima da imagem de fundo */
+            width: 300px; /* Largura fixa */
+            height: 100px; /* Altura fixa */
+            display: flex; /* Para centralizar o conteúdo */
+            flex-direction: column; /* Para empilhar o conteúdo verticalmente */
+            justify-content: center; /* Centraliza verticalmente */
+            align-items: center; /* Centraliza horizontalmente */
+        }
+        .icon {
+            width: 50px;
+            height: 50px;
+        }
+        a {
+            text-decoration: none;
+            color: #25D366;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 10px;
+        }
+        .google-forms-link {
+            color: #4285F4; /* Cor do link do Google Forms */
+        }
+        svg {
+            width: 50px;
+        }
+        .background-image {
+            position: fixed; /* Fixa a imagem na tela */
+            right: 0; /* Coloca a imagem à direita */
+            top: 0; /* Alinha a imagem ao topo */
+            width: auto; /* Largura auto para manter proporção */
+            height: 100vh; /* Altura total da tela */
+            z-index: 0; /* Coloca a imagem atrás de outros elementos */
+        }
+    </style>
+</head>
+<body>
+    <img class="background-image" src="backblue2.png" alt="Imagem de fundo">
+    <div class="header">Entre em contato comigo</div>
+    
+    <div class="container" id="whatsapp-container" onclick="redirectToWhatsApp()">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" class="icon">
+        <a href="#" id="whatsapp-link">Fale comigo no WhatsApp</a>
+    </div>
+
+    <div class="container" id="google-forms-container" onclick="redirectToGoogleForms()">
+        <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+            <rect x="-4" y="-4" class="st0" fill="none" width="48" height="48"></rect>
+            <g>
+                <polygon class="st1" fill="#56368A" points="24.5,10 30,11 34.5,10 24.5,0 23.2,4.7"></polygon>
+                <path class="st2" fill="#7248B9" d="M24.5,10V0H8.2C6.7,0,5.5,1.2,5.5,2.7v34.5c0,1.5,1.2,2.7,2.7,2.7h23.6c1.5,0,2.7-1.2,2.7-2.7V10H24.5z"></path>
+                <path class="st3" fill="#FFFFFF" d="M13.2,28.9c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4C14.5,28.2,13.9,28.9,13.2,28.9z M13.2,23.4c-0.8,0-1.4-0.6-1.4-1.4s0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4S13.9,23.4,13.2,23.4z M13.2,17.9c-0.8,0-1.4-0.6-1.4-1.4c0-0.8,0.6-1.4,1.4-1.4c0.8,0,1.4,0.6,1.4,1.4C14.5,17.3,13.9,17.9,13.2,17.9z M28.2,28.6H16.8v-2.3h11.4V28.6z M28.2,23.2H16.8v-2.3h11.4V23.2z M28.2,17.7H16.8v-2.3h11.4V17.7z"></path>
+            </g>
+        </svg>
+        <a href="#" class="google-forms-link" id="google-forms-link">Responda nosso questionário</a>
+    </div>
+
+    <script>
+        function redirectToWhatsApp() {
+            const container = document.getElementById('whatsapp-container');
+
+            setTimeout(() => {
+                window.location.href = "https://wa.me/558193861630?text=Oi,%20tudo%20bem?";
+            }, 200);
+        }
+
+        function redirectToGoogleForms() {
+            const container = document.getElementById('google-forms-container');
+
+            setTimeout(() => {
+                window.location.href = "https://docs.google.com/forms/d/1O6MMm7bAEBaM7WqNypN_oI45DeGnjbKrF2rDDHbX7jI/viewform";
+            }, 200);
+        }
+    </script>
+</body>
+</html>
